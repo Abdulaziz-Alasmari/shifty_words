@@ -1,0 +1,16 @@
+/home/z/tuwaiq/shifty_words/wordShifter/bin/Debug/net5.0/wordShifter
+/home/z/tuwaiq/shifty_words/wordShifter/bin/Debug/net5.0/wordShifter.deps.json
+/home/z/tuwaiq/shifty_words/wordShifter/bin/Debug/net5.0/wordShifter.runtimeconfig.json
+/home/z/tuwaiq/shifty_words/wordShifter/bin/Debug/net5.0/wordShifter.runtimeconfig.dev.json
+/home/z/tuwaiq/shifty_words/wordShifter/bin/Debug/net5.0/wordShifter.dll
+/home/z/tuwaiq/shifty_words/wordShifter/bin/Debug/net5.0/ref/wordShifter.dll
+/home/z/tuwaiq/shifty_words/wordShifter/bin/Debug/net5.0/wordShifter.pdb
+/home/z/tuwaiq/shifty_words/wordShifter/obj/Debug/net5.0/wordShifter.csprojAssemblyReference.cache
+/home/z/tuwaiq/shifty_words/wordShifter/obj/Debug/net5.0/wordShifter.GeneratedMSBuildEditorConfig.editorconfig
+/home/z/tuwaiq/shifty_words/wordShifter/obj/Debug/net5.0/wordShifter.AssemblyInfoInputs.cache
+/home/z/tuwaiq/shifty_words/wordShifter/obj/Debug/net5.0/wordShifter.AssemblyInfo.cs
+/home/z/tuwaiq/shifty_words/wordShifter/obj/Debug/net5.0/wordShifter.csproj.CoreCompileInputs.cache
+/home/z/tuwaiq/shifty_words/wordShifter/obj/Debug/net5.0/wordShifter.dll
+/home/z/tuwaiq/shifty_words/wordShifter/obj/Debug/net5.0/ref/wordShifter.dll
+/home/z/tuwaiq/shifty_words/wordShifter/obj/Debug/net5.0/wordShifter.pdb
+/home/z/tuwaiq/shifty_words/wordShifter/obj/Debug/net5.0/wordShifter.genruntimeconfig.cache
